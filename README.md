@@ -1,4 +1,4 @@
-# Bazel Farm Monitor Dashboard
+# Bazel BuildFarm Monitor Dashboard
 
 ----
 
